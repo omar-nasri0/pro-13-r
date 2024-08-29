@@ -1,0 +1,24 @@
+.card-border img{
+    height: 80px;
+}
+.card-border h3{
+    padding-top: 15px;
+    font-family: Poppins;
+font-size: 20px;
+font-weight: 600;
+line-height: 30px;
+color: #1E1D4C;
+
+
+}
+.card-border p{
+    padding-top: 15px;
+    width: 200px;
+    margin: auto;
+    color: #7D7D7D;
+    font-family: Poppins;
+font-size: 16px;
+font-weight: 500;
+line-height: 26px;
+
+}

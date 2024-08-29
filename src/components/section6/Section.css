@@ -1,0 +1,52 @@
+.Section6 .app{
+    display: flex;
+    gap: 50px;
+}
+.Section6{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding-top: 100px;
+}
+.father-6 h5{
+    color: #DF6951;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 27px;
+    letter-spacing: 0.1em; 
+}
+.father-6 h1{
+font-size: 39px;
+font-weight: 700;
+line-height: 48px;
+text-align: left;
+color: #181E4B;
+max-width: 500px;
+padding-top: 25px;
+}
+.father-6 p{
+    color: #2F2F2F;
+    font-size: 16px;
+    padding-top: 25px;
+    font-weight: 400;
+    line-height: 29px;
+    max-width: 500px;
+}
+.father-6 button{
+    background: #DF6951;
+    width: Fixed (169.38px)px;
+height: Fixed (56.42px)px;
+margin-top: 25px;
+top: 1091px;
+left: 70px;
+padding: 15px;
+color: white;
+cursor: pointer;
+gap: 10.45px;
+border-radius: 4px;
+border: 0px;
+}
+.father-7 img{
+    width: 300px;
+    height: 300px;
+}

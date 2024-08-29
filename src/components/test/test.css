@@ -1,0 +1,81 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+.father-cart{
+    display: flex;
+    gap: 50px;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 50px;
+}
+.cart{
+    display: flex;
+    flex-direction: column;
+    background-color: #F5F3F3;
+    ;
+    width: max-content;
+    padding: 15px;
+}
+.cart .img img{
+    max-width: 300px;
+    height: 200px;
+}
+
+.cart .his{
+    display: flex;
+    background-color: #DF6951;
+    color: white;
+    justify-content: space-around;
+    max-width: 300px;
+    padding: 5px;
+
+}
+h3.place{
+margin-top: 15px;
+font-family: Poppins;
+font-size: 22px;
+font-weight: 700;
+line-height: 33px;
+color: #181E4B;
+
+}
+.cart p.deck{
+   max-width: 285px;
+   text-align: left;
+color: #181E4B;
+margin-top: 15px;
+
+}
+p.price{
+    font-family: Poppins;
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+text-align: center;
+color: #262626;
+}
+.info .star{
+    width: 13px;
+    height: 13px;
+
+}
+.dstar{
+    display: flex;
+    gap:5px;
+    align-items: center;
+}
+.cart .info{
+    display: flex;
+    gap: 35px;
+    margin-top: 15px;
+}
+@media screen and (max-width:992px) {
+.cart {
+padding: 0px;   
+}
+h3.place,.cart p.deck,p.price{
+    margin-left: 15px;
+}
+}

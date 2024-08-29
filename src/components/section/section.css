@@ -1,0 +1,28 @@
+.father-1{
+        padding-top: 100px;
+        text-align: center;
+}
+.father-1 p.CATEGORY,
+.Section3 p.p{
+    padding-bottom: 25px;
+    color: #DF6951;
+font-size: 18px;
+font-weight: 600;
+line-height: 27px;
+text-align: center;
+}
+.father-1 h1.we,
+.Section3 h1.h1{
+    color: #1E1D4C;
+    font-family: Poppins;
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 75px;
+    text-align: center;
+    
+}
+.section-1{
+    display: flex;
+    padding-top: 75px;
+    justify-content: space-around;
+}

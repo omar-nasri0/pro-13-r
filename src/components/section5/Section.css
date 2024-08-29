@@ -1,0 +1,25 @@
+.Section5{
+    height: 400px;
+    margin-top: 70px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Section5 p{
+text-align: center;
+font-size: 100px;
+overflow: hidden;
+font-weight: 400;
+line-height: 223.68px;
+color: #ffffffff;
+}
+.Section5 img{
+    width: 80px;
+    height: 80px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50% , -50%);
+    z-index: 12;
+}
